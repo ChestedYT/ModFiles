@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cytmm",
+  "name": "Tons of Item",
+  "description": "More Items",
+  "version": "1.8.3",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ChestedYT"],
+  "credits": "ChestedYT",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
